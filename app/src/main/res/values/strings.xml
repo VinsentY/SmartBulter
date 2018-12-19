@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">智能管家</string>
+    <string-array name="courier">
+        <item>顺丰</item>
+        <item>韵达</item>
+        <item>圆通</item>
+        <item>中通</item>
+    </string-array>
+
+</resources>
